@@ -11,7 +11,7 @@ A standalone, production-grade **Java Swing desktop e-commerce platform** engine
 
 ---
 
-## 📋 Academic Evaluation Rubric Mapping (GUVI HCL Review 1)
+## 📋 Academic Evaluation Rubric Mapping
 
 This project is structured specifically to satisfy the **Java GUI-Based Projects Marking Rubric**:
 
