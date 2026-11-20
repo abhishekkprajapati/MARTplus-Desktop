@@ -1,4 +1,4 @@
-# Core Java OOP Implementation (10 Marks Compliance)
+# Core Java OOP Implementation 
 
 This document provides technical proof of how all required Object-Oriented Programming (OOP) concepts are implemented and demonstrated in the MARTplus codebase.
 
