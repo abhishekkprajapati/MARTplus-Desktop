@@ -1,4 +1,4 @@
-# Multithreading & Synchronization (4 Marks Compliance)
+# Multithreading & Synchronization 
 
 This document explains the multithreading architecture, thread pooling, EDT safety, and fine-grained synchronization implemented in the application.
 
