@@ -1,4 +1,4 @@
-# JDBC Transaction Management (3 Marks Compliance)
+# JDBC Transaction Management 
 
 This document provides a detailed breakdown of the multi-step atomic checkout transaction implemented in `OrderService.processCheckout()`.
 
