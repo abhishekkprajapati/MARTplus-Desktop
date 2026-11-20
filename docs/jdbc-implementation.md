@@ -1,4 +1,4 @@
-# JDBC Implementation & Database Operations (7 + 3 Marks Compliance)
+# JDBC Implementation & Database Operations 
 
 This document describes the direct Java Database Connectivity (JDBC) architecture used for all desktop data operations, satisfying the criteria for:
 - Classes for database operations (7 Marks)
