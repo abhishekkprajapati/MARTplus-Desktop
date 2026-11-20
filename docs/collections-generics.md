@@ -1,4 +1,4 @@
-# Collections & Generics (6 Marks Compliance)
+# Collections & Generics 
 
 This document details the practical usage and architectural necessity of Java Collections and Generics within the MARTplus desktop application.
 
